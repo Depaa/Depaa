@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a Cloud Engineer very passionate about Serverless on AWS
 
-[<img src="https://images.youracclaim.com/size/100x100/images/b158bae7-462e-4c2c-92e6-d7a0b4cdb6c6/AWS-SolArchitect-Professional.png">](https://www.credly.com/badges/9fab0015-a3ec-46e9-8c73-8e505d1d5a24)
+[<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png">](https://www.credly.com/badges/9fab0015-a3ec-46e9-8c73-8e505d1d5a24)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-depascale-337297183/)
