@@ -5,6 +5,7 @@
 I'm a Cloud Engineer very passionate about Serverless on AWS
 
 [<img src="https://images.credly.com/size/200x200/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png">](https://www.credly.com/badges/9fab0015-a3ec-46e9-8c73-8e505d1d5a24)
+[<img src="https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">](https://www.credly.com/badges/eaafaaf7-8823-4e5a-ac93-a35c79ad6d96)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-depascale/)
